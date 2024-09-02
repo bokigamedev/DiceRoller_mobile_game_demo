@@ -12,7 +12,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ac90c64-3d77-4d02-bd29-906bf1ee9003" name="Changes" comment="DiceRoller demo v1" />
+    <list default="true" id="0ac90c64-3d77-4d02-bd29-906bf1ee9003" name="Changes" comment="DiceRoller demo v1.1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +56,7 @@
     <property name="cidr.known.project.marker" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/raw" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -234,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1724966067809</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="DiceRoller demo v1.1">
+      <created>1724967183898</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724967183898</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,6 +259,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="DiceRoller demo v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="DiceRoller demo v1" />
+    <MESSAGE value="DiceRoller demo v1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="DiceRoller demo v1.1" />
   </component>
 </project>
